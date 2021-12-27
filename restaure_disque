@@ -1,0 +1,14 @@
+
+*** ne pas oublier de mettre 4 vcpu !!
+
+SRVPRGST
+Utiliser génération 1
+disque dur 300 Go
+Connecter un dvd avec image OS
+et un disque dur virtuel contenant les sauvegardes
+(un DVD ne le fait pas)
+5h de restauration ?
+
+SRVVBDST: idem + disque dur de base de 600 Go
+8h de restauration ?
+
